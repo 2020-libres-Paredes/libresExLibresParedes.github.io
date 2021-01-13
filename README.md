@@ -12,5 +12,9 @@
 
 ## Licencia 
 
-* La licencia que se utilizará será:
-** Bsd 3-clause new or revised license Barkeley Software Distribution
+* La licencia que se utilizará será: Bsd **3-clause new or revised license Barkeley Software Distribution**
+
+## Labels
+
+
+##
