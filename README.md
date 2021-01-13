@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+### UniPagos
 
-You can use the [editor on GitHub](https://github.com/2020-libres-Paredes/libresExLibresParedes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Objetivo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* El objetivo de este proyecto es brindar a las personas una plataforma en la cual puedan realizar pagos de diferente índole. Los pagos serán de servicios básicos, tarjeta de crédito, impuestos etc. todos estos en un solo lugar, donde se gestionará los mismos para realizarlos de manera rapida y efectiva.
+* Incentivar a la comunidad a aportar nuevos tipos de pagos para implementarlos en este proyecto y así dar mayor funcionalidad al mismo.
 
-### Markdown
+## Fundador
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Andres Ricardo Paredes Villacis
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Licencia 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/2020-libres-Paredes/libresExLibresParedes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* La licencia que se utilizará será:
+** Bsd 3-clause new or revised license Barkeley Software Distribution
